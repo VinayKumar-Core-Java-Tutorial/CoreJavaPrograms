@@ -1,5 +1,5 @@
 public class PentagonShape {
-    public static void main(String args[]){
+    public static void main(String []args){
        int i=1;
        do{
            int j=1;
